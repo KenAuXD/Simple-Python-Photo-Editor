@@ -1,2 +1,3 @@
 # Simple-Python-Photo-Editor
-mini project in polyU comp1002
+Mini project in PolyU Comp1002
+with GUI :D
